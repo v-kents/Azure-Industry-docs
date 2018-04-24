@@ -1,6 +1,6 @@
 ---
 # required metadata
-title: Azure Industry Experience 
+title: Azure For Industry 
 author: dstarr
 ms.author: dastarr
 ms.date: 04/12/2018
@@ -8,8 +8,90 @@ ms.topic: article
 ms.prod: non-product specific
 description: Home of the Industry Experiences team
 ---
-# Azure Industry Experience documents
+# Azure For Industry
 
-- [Risk Compute in  Banking Overview](/azure/industry/financial/risk-compute-overview)
-- [Risk Compute in Banking Solutions Guide](/azure/industry/financial/risk-compute-sg)
-- [Predictive Mainenance in Manufacuring Overview](/azure/industry/manufacturing/pdm-overview)
+Learn how to use Azure to build solutions for common industry uses cases. Use case overviews, solution guides, tutorials and other resources provide the materials needed to start building solutions for common scenarios today.
+
+<ul class="panelContent cardsFTitle">
+    <li>
+        <a href="">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="/azure-industry-docs/media/financial.svg" alt="" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Financial services</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+</ul>
+
+<ul class="panelContent cardsFTitle">
+    <li>
+        <a href="">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="/azure-industry-docs/media/healthcare.svg" alt="" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Health and life sciences</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+</ul>
+
+<ul class="panelContent cardsFTitle">
+    <li>
+        <a href="">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="/azure-industry-docs/media/discrete-manufacturing.svg" alt="" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Manufacturing</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+</ul>
+
+<ul class="panelContent cardsFTitle">
+    <li>
+        <a href="">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="/azure-industry-docs/media/retailers.svg" alt="" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Retail</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+</ul>
