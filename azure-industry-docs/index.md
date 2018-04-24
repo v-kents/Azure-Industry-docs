@@ -13,8 +13,7 @@ description: Home of the Industry Experiences team
 Learn how to use Azure to build solutions for common industry uses cases. Use case overviews, solution guides, tutorials and other resources provide the materials needed to start building solutions for common scenarios today.
 
 <ul class="panelContent cardsFTitle">
-    <li>
-        <a href="">
+    <li style="-ms-flex: 0 1 100%; flex: 0 1 100%">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -29,13 +28,11 @@ Learn how to use Azure to build solutions for common industry uses cases. Use ca
                 </div>
             </div>
         </div>
-        </a>
     </li>
 </ul>
 
 <ul class="panelContent cardsFTitle">
-    <li>
-        <a href="">
+    <li style="-ms-flex: 0 1 100%; flex: 0 1 100%">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -50,13 +47,11 @@ Learn how to use Azure to build solutions for common industry uses cases. Use ca
                 </div>
             </div>
         </div>
-        </a>
     </li>
 </ul>
 
 <ul class="panelContent cardsFTitle">
-    <li>
-        <a href="">
+    <li style="-ms-flex: 0 1 100%; flex: 0 1 100%">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -71,13 +66,11 @@ Learn how to use Azure to build solutions for common industry uses cases. Use ca
                 </div>
             </div>
         </div>
-        </a>
     </li>
 </ul>
 
 <ul class="panelContent cardsFTitle">
-    <li>
-        <a href="">
+    <li style="-ms-flex: 0 1 100%; flex: 0 1 100%">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -92,6 +85,5 @@ Learn how to use Azure to build solutions for common industry uses cases. Use ca
                 </div>
             </div>
         </div>
-        </a>
     </li>
 </ul>
